@@ -203,6 +203,8 @@
 
 ## Resources
 
+Recommendation: Don't focus on the specific tools, frameworks, and libraries used in the below resources, but on what they do, how they do it, and why they do it. Focus on first principles, and on architectural and workflow patterns.
+
 ### Semantic Search Resources
 
 - Large Language Models with Semantic Search
